@@ -1,13 +1,13 @@
-name = "Modpack Template"
-author = "Merith.TK"
+name = "blupack"
+author = "Infernity"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d021bf567c5145418d5c6aec8806f0c9b0d7f8cf9b8a820301e8998e797f59c0"
+hash = "686776c4067447c1e4c304945edc279596d1717ba0249f464f9a215f35b79d36"
 
 [versions]
-fabric = "0.13.3"
-minecraft = "1.18.1"
+forge = "40.1.51"
+minecraft = "1.18.2"

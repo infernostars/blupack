@@ -1,0 +1,13 @@
+name = "Portal Gun Totality 1.18.2 [FORGE]"
+filename = "Portal_Gun_Totality-1.18.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b355597f91c453eaa9a2d04ca1f4b384bf6d4268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3760891
+project-id = 615306

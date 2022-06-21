@@ -1,0 +1,13 @@
+name = "Easy Redstone Extras"
+filename = "RedstoneExtras-1.18-1.0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11519f0dbfbc3310a691011cd794b18d5d26645f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3598168
+project-id = 385891
