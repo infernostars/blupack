@@ -24,6 +24,16 @@ hash = "cd2d6ee57cfb73ed272b1a74a9073aad47d9670c4b7e4d9ac91419b4b458d8e7"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "cf6ffc87b51f51c1bf503ab9b576f26990e5dbc6c880fbb90e31fab640ca419b"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "d9dc76ffe25b4f4f9c9d6c896181a3952a9f432d883098ab30537ad01b3410aa"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
@@ -59,6 +69,11 @@ hash = "e116a4c60883db9826d629da917b93686bd72f62ca74033b4a905c1481c7191d"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
 metafile = true
@@ -91,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "335d51f82803c67fa8a88d6dd3aa403ea2ffdb4bc73b27ba27c928734f51f96d"
 metafile = true
 
 [[files]]
@@ -136,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "15206958edd4dd49895f5abd689a1d2dbd3687b0ff90f630d38768e61507dcfe"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
