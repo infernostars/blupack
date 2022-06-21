@@ -9,6 +9,10 @@ file = "modpack.icon.png"
 hash = "50f74a7debb4a852e1384434500515f2478b8dcf0d71b75eba148ca34d89715c"
 
 [[files]]
+file = "mods/SecurityCraft v1.9.2.jar"
+hash = "558cf47e8e2feb0780057f3d5f10e47d7b97584f3f06f41784df00fc9d20124f"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "8390b3bbeeac78407a6604cc440ae8fa8d923d214d99be9b2aad75054541a77e"
 metafile = true
@@ -171,11 +175,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
-metafile = true
-
-[[files]]
-file = "mods/security-craft.pw.toml"
-hash = "227d34a142b5c6228d148ce0abe58a4071706760e3ab326db0af918cb70c3fdf"
 metafile = true
 
 [[files]]
