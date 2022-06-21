@@ -119,11 +119,6 @@ hash = "84423127e3a25f8af1c67d4d583511c96952007fcf64feddc00726ad79db26d3"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "5a5c6174eda3db8594761efaf64308c44702b3f2a25957b0c35825b0109a1ef0"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "494ff2f0891ded1ea083cd199c0987bf464ce0542ed5eed8a9f01f76f83900fe"
 metafile = true
@@ -164,11 +159,6 @@ hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
-metafile = true
-
-[[files]]
 file = "mods/portal-gun-totality.pw.toml"
 hash = "088cd003c04364d28eb258da0f78cc28df8344d4cccade1f9133594e576c64fc"
 metafile = true
@@ -188,10 +178,6 @@ file = "mods/security-craft.pw.toml"
 hash = "227d34a142b5c6228d148ce0abe58a4071706760e3ab326db0af918cb70c3fdf"
 metafile = true
 
-[[files]]
-file = "mods/sodium.toml"
-hash = "4aba93a705eb2c6300818297bc1d85329b9b085392810dbf15c79b5e3dd6d0ef"
-metafile = true
 
 [[files]]
 file = "mods/steam-powered-create.pw.toml"
